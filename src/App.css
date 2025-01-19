@@ -1,0 +1,60 @@
+.wrapper{
+  border: 2px solid orange;
+  
+}
+.left-area{
+  border: 2px solid blue;
+
+}
+.right-area{
+  border: 2px solid rebeccapurple ;
+  
+}
+.restaurant-image{
+  height: 300px;
+}
+#header{
+  display:flex;
+  justify-content: space-between;
+  padding:20px 50px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 3px graya;
+
+}
+.location-image{
+  list-style: none;
+}
+.items:hover{
+ color: red;
+}
+.searching{
+  width: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.restaurantItems{
+  margin-left: 180px;
+  margin-right: 300px;
+  padding: 30px;
+
+  }
+  .menu-image{
+
+    height:350px;
+    /* height: 144px;
+    width: 156px; */
+  }
+  .menu-body{
+    height: 200px;
+  }
+  .dotveg{
+   border: 2px solid;
+    
+
+  }
+  .searchrest{
+    margin:auto;
+    display: flex;
+    width:200px;
+ flex-direction: row;
+  }
